@@ -27,6 +27,10 @@ class Patient {
         return ailment;
     }
 
+
+    secret: "abc";
+    password: "abx";
+
     public String getDoctorAssigned() {
         return doctorAssigned;
     }
